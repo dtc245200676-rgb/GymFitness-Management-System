@@ -1,0 +1,18 @@
+{
+  "name": "gym-fitness-management",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo de 23 - Quan ly phong Gym/Fitness",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+    "mysql2": "^3.14.1"
+  }
+}
